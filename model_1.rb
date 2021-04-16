@@ -4,3 +4,5 @@ favorite_food = "Chips and Salsa"
 age = 26
 height = 6.1
 weight = 155
+
+favorite_colors = ["black", "blue", "red"]
